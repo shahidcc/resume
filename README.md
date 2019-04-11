@@ -1,5 +1,4 @@
 # Shahid Ahmed 
-ml@shahid.cc ∙ (908) 967-9191 ∙ http://shahid.cc   
 
 Passionate technology leader. Hands-on computer buff for 20+ years. In 14 years at Verizon:
 - Developed applications that served more than a billion customer requests
@@ -129,3 +128,6 @@ Presented in various conferences including IBM Impact in Las Vegas, Lotus Notes 
 ### AUTHOR 
 Published articles online as well as in print media. Example: 
 https://www.linkedin.com/pulse/deep-learning-meetup-nice-discussion-shahid-ahmed/
+
+### CONTACT INFO 
+ml@shahid.cc ∙ (908) 967-9191 ∙ http://shahid.cc   
