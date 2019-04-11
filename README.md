@@ -10,13 +10,11 @@ Passionate technology leader for 20+ years. Hands-on computer buff. In 14 years 
 - Process management 
 - Managing social system 
 - Technology management
-
-### TECHNOLOGIES
-- AWS Cloud
-- Machine Learning  
-- Mobile and web app development
-- DevSecOps, Agile 
-- Digital Transformation
+  - AWS Cloud
+  - Machine Learning  
+  - Mobile and web app development
+  - DevSecOps, Agile 
+  - Digital Transformation
 
 ### EXPERIENCE 
 #### Assoc. Director/Sr. Manager Engineering - Verizon 
