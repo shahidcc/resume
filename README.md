@@ -9,7 +9,7 @@ Passionate technology leader. Hands-on computer buff for 20+ years. In 14 years 
 - People Management 
   - Managed 40+ developers at multiple onshore and offshore locations, hired people, mold teams, execute with laser sharp priorities  
 - Process management 
-  - Agile, CI/CD, source code control, code review, security validation, risk mitigation, budget, project planning  
+  - Agile, CI/CD, source control, code review, security analysis, risk mitigation, budgeting, project planning  
 - Managing social system 
   - Leadership, Marketing, Digital Ops, Customer Experience, Field Support, Product Development, Peers, yeasayers and naysayers 
 - Technology management
