@@ -92,9 +92,10 @@ Sep 2005 – Jun 2009
 Built the company's first generation customer self-serve application 
 - Used by  2+ million BREW basic phone users every month.
 - WebSphere, J2EE, Spring, Hibernate, IBM MQ series, Oracle etc. used in the backend
-- Built the company's first automated customer call support system 
-- Used by 15+ million mobile customers every month. 
-- Deflected 200+ million calls to call-centers 
+
+Built #MIN/#BAL app, the company's first automated customer call support system 
+- Used by 20+ million mobile customers every month. 
+- Deflected 1+ billion calls to call-center reps  
 - Saved the company $200+  million dollars in its lifetime
 
 ### TECHNOLOGIES 
