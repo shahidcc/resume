@@ -88,6 +88,7 @@ Built the company's first Visual Voicemail app
 
 #### Sr. Member Application Services - _Verizon_ 
 Sep 2005 – Jun 2009
+
 Built the company's first generation customer self-serve application 
 - Used by  2+ million BREW basic phone users every month.
 - WebSphere, J2EE, Spring, Hibernate, IBM MQ series, Oracle etc. used in the backend
