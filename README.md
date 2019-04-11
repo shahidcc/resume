@@ -7,7 +7,7 @@ Passionate technology leader. Hands-on computer buff for 20+ years. In 14 years 
 
 ### CORE COMPETENCIES 
 - People Management 
-  - Managed 40+ developers at multiple onshore and offshore locations, hired people, mold teams, execute with laser sharp priorities  
+  - Managed 40+ developers at multiple onshore and offshore locations, hired people, molded teams, executed with laser sharp priorities  
 - Process management 
   - Agile, CI/CD, source control, code review, security analysis, risk mitigation, budgeting, project planning  
 - Managing social system 
