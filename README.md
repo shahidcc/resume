@@ -1,5 +1,5 @@
 # Shahid Ahmed
-Passionate technology leader for 20+ years. Hands-on computer buff. In 14 years at Verizon:
+Passionate technology leader. Hands-on computer buff for 20+ years. In 14 years at Verizon:
 - Developed applications that served more than a billion customer requests
 - Built teams from ground up to build solutions and provide carrier-grade services
 - Took several new concepts and ideas to full-fledged products
