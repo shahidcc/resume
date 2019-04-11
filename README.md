@@ -11,7 +11,7 @@ Passionate technology leader for 20+ years. Hands-on computer buff. In 14 years 
 - Process management 
   - Agile, CI/CD, source code control, code review, security validation, risk mitigation, budget, project planning  
 - Managing social system 
-  - Leadership, Marketing, Digital Ops, Customer Experience, Sales, Field Support, Product Development 
+  - Leadership, Marketing, Digital Ops, Customer Experience, Field Support, Product Development, Peers, yeasayers and naysayers 
 - Technology management
   - AWS Cloud
   - Machine Learning  
