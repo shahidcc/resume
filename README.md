@@ -1,4 +1,6 @@
-# Shahid Ahmed
+# Shahid Ahmed 
+ml@shahid.cc ∙ (908) 967-9191 ∙ http://shahid.cc   
+
 Passionate technology leader. Hands-on computer buff for 20+ years. In 14 years at Verizon:
 - Developed applications that served more than a billion customer requests
 - Built teams from ground up to build solutions and provide carrier-grade services
