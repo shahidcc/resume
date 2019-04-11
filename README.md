@@ -2,7 +2,7 @@
 Passionate technology leader for 20+ years. Hands-on computer buff. In 14 years at Verizon:
 - Developed applications that served more than a billion customer requests
 - Built teams from ground up to build solutions and provide carrier-grade services
-- Took many new concepts and ideas to full-fledged products
+- Took several new concepts and ideas to full-fledged products
 - Provided thought leadership on cloud, mobile and digital transformation 
 
 ### CORE COMPETENCIES 
