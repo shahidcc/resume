@@ -1,14 +1,20 @@
 # Shahid Ahmed
 Passionate technology leader for 20+ years. In 14 years at Verizon:
-- Built teams from ground up to provide carrier-grade services
-- Took many new concepts/ideas to full-fledged products
-- Provided thought leadership on cloud, mobile and digital trends 
+- Built teams from ground up to build solutions and provide carrier-grade services
+- Took many new concepts and ideas to full-fledged products
+- Provided thought leadership on cloud, mobile and digital transformation 
 
 ### CORE COMPETENCIES 
+- People Management 
+- Process management 
+- Managing social system 
+- Technology management
+
+### TECHNOLOGIES
 - AWS Cloud
 - Machine Learning  
-- Mobile/web app development
-- DevSecOps 
+- Mobile and web app development
+- DevSecOps, Agile 
 - Digital Transformation
 
 ### EXPERIENCE 
