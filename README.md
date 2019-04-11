@@ -17,7 +17,7 @@ Passionate technology leader for 20+ years. Hands-on computer buff. In 14 years 
   - Digital Transformation
 
 ### EXPERIENCE 
-#### Assoc. Director/Sr. Manager Engineering - Verizon 
+#### Assoc. Director/Sr. Manager Engineering - _Verizon_ 
 Oct 2011 – Mar 2019 
 
 Developed key modules of My Verizon Mobile, Verizon’s flagship app which is at the core of the company’s drive to reduce annual customer care cost by $200M in 3 years by increasing users’ digital engagement from 46% to 70%.
@@ -77,7 +77,7 @@ Built Verizon MDM service that enables corporations  manage their mobile and IoT
 - Generates $30+ million per year revenue 
 
 
-#### Manager Systems Engineering - Verizon 
+#### Manager Systems Engineering - _Verizon_ 
 Jun 2009 – Oct 2011
 
 Built the company's first Visual Voicemail app 
@@ -86,7 +86,7 @@ Built the company's first Visual Voicemail app
 - WebSphere, J2EE, IBM MQ series, Oracle used in the backend
 
 
-#### Sr. Member Application Services - Verizon 
+#### Sr. Member Application Services - _Verizon_ 
 Sep 2005 – Jun 2009
 Built the company's first generation customer self-serve application 
 - Used by  2+ million BREW basic phone users every month.
