@@ -7,8 +7,11 @@ Passionate technology leader for 20+ years. Hands-on computer buff. In 14 years 
 
 ### CORE COMPETENCIES 
 - People Management 
+  - Managed 40+ developers at multiple onshore and offshore locations, hired people, mold teams, execute with laser sharp priorities  
 - Process management 
+  - Agile, CI/CD, source code control, code review, security validation, risk mitigation, budget, project planning  
 - Managing social system 
+  - Leadership, Marketing, Digital Ops, Customer Experience, Sales, Field Support, Product Development 
 - Technology management
   - AWS Cloud
   - Machine Learning  
