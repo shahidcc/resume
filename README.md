@@ -8,9 +8,8 @@ Passionate technology leader. Hands-on computer buff for 20+ years. In 14 years 
 
 ### CORE COMPETENCIES 
 - Technology management
-  - AWS Cloud
-  - Big data, Machine Learning  
-  - Mobile and web app development
+  - AWS Cloud, Big data, Machine Learning  
+  - Massively scalable mobile and web app development
   - DevOps, Agile 
   - Digital Transformation
 - People Management 
