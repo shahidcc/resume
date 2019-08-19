@@ -105,9 +105,9 @@ Built #MIN/#BAL app, the company's first automated customer call support system
 
 ### TECHNOLOGIES 
 
-- AWS cloud stack, Python, Java, Spring, Scala, 
-- Microservices, JavaScript, NodeJS, Oracle,  
-- NoSQL, MQ, DevSecOps, etc. 
+- AWS cloud stack, Java, Go, Python, Spring  
+- Microservices, Docker, Apache Hadoop, Spark, Kafka,   
+- NoSQL, DevSecOps, CI/CD etc. 
 
 
 ### EDUCATION /CERTIFICATION 
