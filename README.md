@@ -4,49 +4,51 @@ Passionate technology leader. Hands-on computer buff for 20+ years. In 14 years 
 - Developed applications that served more than a billion customer requests
 - Built teams from ground up to build solutions and provide carrier-grade services
 - Took several new concepts and ideas to full-fledged products
-- Provided thought leadership on cloud, mobile and digital transformation 
+- Provided thought leadership on cloud, big data, machine learning and digital transformation 
 
 ### CORE COMPETENCIES 
+- Technology management
+  - AWS Cloud
+  - Big data, Machine Learning  
+  - Mobile and web app development
+  - DevOps, Agile 
+  - Digital Transformation
 - People Management 
-  - Managed 40+ developers at multiple onshore and offshore locations, hired people, molded teams, executed with laser sharp priorities  
+  - Managed 40+ developers at multiple onshore and offshore locations, hired people, molded teams, executed with laser sharp priorities 
 - Process management 
   - Agile, CI/CD, source control, code review, security analysis, risk mitigation, budgeting, project planning  
 - Managing social system 
   - Leadership, Marketing, Digital Ops, Customer Experience, Field Support, Product Development, Peers, yeasayers and naysayers 
-- Technology management
-  - AWS Cloud
-  - Machine Learning  
-  - Mobile and web app development
-  - DevSecOps, Agile 
-  - Digital Transformation
-
 ### EXPERIENCE 
 #### Assoc. Director/Sr. Manager Engineering - _Verizon_ 
 Oct 2011 – Mar 2019 
 
-Developed key modules of My Verizon Mobile, Verizon’s flagship app which is at the core of the company’s drive to reduce annual customer care cost by $200M in 3 years by increasing users’ digital engagement from 46% to 70%.
-- Enables customers to self-serve for managing accounts, plans, payments, shopping, devices, diagnostics, etc.  
-- 16M+ monthly active in users in a user base of 40M
-- Massively scalable app of n-tier architecture sustains 1M+ active users per hour with 99.96% availability
-- Server technologies - AWS stack (EC2, S3, RDS, SQS, SNS, DynamoDB, Lambda Serverless etc.), Java, Spring Boot, React JS, Microservices (Akka), Scala, Hygiea, Splunk 
-- Mobile technologies - Swift/Objective-C, Android Java/Kotlin
-- DevSecOps process involving 120+ onshore/offshore resources 
-- Impacts $1.5B service expense and $30+ billion revenue channel.
-- https://play.google.com/store/apps/details?id=com.vzw.hss.myverizon
-- https://itunes.apple.com/us/app/my-verizon/id416023011
+Led Big Data team to setup a multi-tiered data lake in AWS used by different enterprise teams to analyze sales trends, customer insights, application behavior etc. Worked extensively in all phases such as Data Ingestion, Storage, Transformation, Processing, Analysis, etc.
+● Used technologies such as Amazon Kinesis Firehose, Data Streams, S3, Redshift, Apache Hadoop, HDFS, Amazon EMR, Spark, Kafka, Python, Go, Hive, Redshift Spectrum, etc.
 
-Architected multiple AWS-based mission-critical applications to support the corporate initiative of reducing annual infrastructure expense by $100M.  Led the team to migrate systems to AWS cloud and develop cloud-native apps.
-- Won the DevOps cup, the annual competition for managing company apps in the best practice-compliant manner. 
-- AWS technology stack (EC2, ELB, S3, CloudFront, Aurora PostgreSQL, SQS, SNS, DynamoDB, Cloud Formation, Cloudwatch, CloudTrail etc.).
-- Increased availability of a critical app from 99.2% to 99.99% and scalability by 400% while reducing annual system cost by 60%.
 
 Led Data Science and App Analytics team to build Machine Learning solutions for company initiatives such as to reduce customer churn from 1.1% to 1%, improve customer adoption rate of value added services by 100%, increase accessory sales by 300% etc. 
 - Regression and Classification problems 
 - Used Python, Keras, TensorFlow, Pandas, Seaborn, Scala 
 - Increased the customer acceptance rate of a new product offer by 500-800% (from 1-2% to 9-11%)
 
-Led Big Data team to create a real-time dashboard showing live the full customer journey through different pages of My Verizon app being used by hundreds of thousands of customers across the country.
-- Used IBM Streams, Hadoop and various JavaScript tools
+
+Architected multiple AWS-based applications to help reduce annual infrastructure expense by $100M.  Led the team to migrate systems to AWS cloud and develop cloud-native apps.
+- Won the DevOps cup, the annual competition for managing company apps in the best practice-compliant manner. 
+- AWS technology stack (EC2, ELB, S3, CloudFront, Aurora PostgreSQL, SQS, SNS, DynamoDB, Cloud Formation, Cloudwatch, CloudTrail etc.).
+- Increased availability of a critical app from 99.2% to 99.99% and scalability by 400% while reducing annual system cost by 60%.
+
+
+Developed key modules of My Verizon Mobile, Verizon’s flagship app which is at the core of the company’s drive to reduce annual customer care cost by $200M in 3 years by increasing users’ digital engagement from 46% to 70%.
+- Enables customers to self-serve for managing accounts, plans, payments, shopping, devices, diagnostics, etc.  
+- 16M+ monthly active in users in a user base of 40M
+- Massively scalable app of n-tier architecture sustains 1M+ active users per hour with 99.96% availability
+- Server technologies - AWS stack (EC2, S3, RDS, DynamoDB, Lambda Serverless etc.), Java, Go, Spring Boot, React JS, Microservices 
+- Mobile technologies - Swift/Objective-C, Android Java/Kotlin
+- Impacts $1.5B service expense and $30+ billion revenue channel.
+- https://play.google.com/store/apps/details?id=com.vzw.hss.myverizon
+- https://itunes.apple.com/us/app/my-verizon/id416023011
+
 
 To reduce each store rep’s customer engagement time by 20% (from 20 minutes to 16), built the Content Transfer mobile app that transfers content between smartphones irrespective of make, model and carriers.
 - Saved $12M+ direct cost and reduced $20m+ opportunity cost
