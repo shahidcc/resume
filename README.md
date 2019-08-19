@@ -1,6 +1,6 @@
 # Shahid Ahmed 
 
-Passionate technology leader. Hands-on computer buff for 20+ years. In 14 years at Verizon:
+Passionate technology leader. Hands-on computer buff for 20+ years with last 14 years at Verizon.
 - Expertise in AWS cloud, Big data, Data engineering etc. with hands-on skills in Java, Go, Python etc. 
 - Developed applications that served more than a billion customer requests
 - Built teams from ground up to build large-scale systems and provide carrier-grade services
