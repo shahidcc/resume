@@ -23,7 +23,7 @@ Passionate technology leader. Hands-on computer buff for 20+ years. In 14 years 
 Oct 2011 – Mar 2019 
 
 Led Big Data team to setup a multi-tiered data lake in AWS used by different enterprise teams to analyze sales trends, customer insights, application behavior etc. Worked extensively in all phases such as Data Ingestion, Storage, Transformation, Processing, Analysis, etc.
-● Used technologies such as Amazon Kinesis Firehose, Data Streams, S3, Redshift, Apache Hadoop, HDFS, Amazon EMR, Spark, Kafka, Python, Go, Hive, Redshift Spectrum, etc.
+- Used technologies such as Amazon Kinesis, S3, Redshift, Apache Hadoop, Spark, Kafka, Python, Go, Hive, Amazon EMR, Redshift Spectrum, etc.
 
 
 Led Data Science and App Analytics team to build Machine Learning solutions for company initiatives such as to reduce customer churn from 1.1% to 1%, improve customer adoption rate of value added services by 100%, increase accessory sales by 300% etc. 
