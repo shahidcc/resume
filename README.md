@@ -10,10 +10,10 @@ Passionate technology leader. Hands-on computer buff for 20+ years with last 14 
 - Technology management
   - AWS Cloud, Big data, Machine Learning  
   - Massively scalable mobile and web app development
-  - DevOps, Agile 
+  - DevOps, Security, Agile 
   - Digital Transformation
 - People Management 
-  - Managed 40+ developers at multiple onshore and offshore locations, hired people, molded teams, executed with laser sharp priorities 
+  - Managed 35+ developers at onshore and offshore locations, hired people, molded teams, executed with laser sharp priorities 
 - Process management 
   - Agile, CI/CD, source control, code review, security analysis, risk mitigation, budgeting, project planning  
 - Managing social system 
@@ -112,14 +112,14 @@ Built #MIN/#BAL app, the company's first automated customer call support system
 
 ### EDUCATION /CERTIFICATION 
 - M.S., Information Systems- Stevens Institute of Technology 2006 – 2009
-- Google Certificate - Machine Learning with TensorFlow (WIP) 
+- Google Certificate - Machine Learning with TensorFlow - 2019 
 - AWS Certified Solutions Architect Associate - 2018 
 
 ### PATENTS 
 - 11 patents 
 
 ### COMMUNITY LEADERSHIP 
-Organizer of Cloud Computing NJ Meetup (210+ members). We hold regular sessions on AWS and other cloud technologies
+Organizer of Cloud Computing NJ Meetup (210+ members). Leads regular sessions on AWS and other cloud technologies
 https://www.meetup.com/aws-cloud-NJ-meetup/
  
 
@@ -128,6 +128,9 @@ Presented in various conferences including IBM Impact in Las Vegas, Lotus Notes 
 
 ### AUTHOR 
 Published articles online as well as in print media. Example: 
+- Programming in Go for Web Scraping (Aug-2019)
+https://medium.com/@shahidahmed.org/programming-in-go-for-web-scraping-aedf937e769d
+- Deep learning, Meetup and a nice discussion (Feb-2019)
 https://www.linkedin.com/pulse/deep-learning-meetup-nice-discussion-shahid-ahmed/
 
 ### CONTACT INFO 
