@@ -1,13 +1,13 @@
 # Shahid Ahmed 
 
 Passionate technology leader. Hands-on computer buff for 20+ years with last 14 years at Verizon.
-- Expertise in AWS cloud, Big data, Data engineering etc. with hands-on skills in Java, Go, Python etc. 
+- Expertise in AWS & Google cloud, Big data, Data engineering etc. with hands-on skills in Java, Go, Python etc. 
 - Built teams from ground up to build large-scale systems and provide carrier-grade services
 - Provided thought leadership on cloud, big data, machine learning and digital transformation 
 
 ### CORE COMPETENCIES 
 - Technology management
-  - AWS Cloud, Big data, Machine Learning  
+  - AWS & Google Cloud, Data lake, Machine Learning  
   - DevOps, Security, Agile 
   - Digital Transformation
 - People Management 
