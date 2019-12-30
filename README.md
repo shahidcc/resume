@@ -2,18 +2,16 @@
 
 Passionate technology leader. Hands-on computer buff for 20+ years with last 14 years at Verizon.
 - Expertise in AWS cloud, Big data, Data engineering etc. with hands-on skills in Java, Go, Python etc. 
-- Developed applications that served more than a billion customer requests
 - Built teams from ground up to build large-scale systems and provide carrier-grade services
 - Provided thought leadership on cloud, big data, machine learning and digital transformation 
 
 ### CORE COMPETENCIES 
 - Technology management
   - AWS Cloud, Big data, Machine Learning  
-  - Massively scalable mobile and web app development
   - DevOps, Security, Agile 
   - Digital Transformation
 - People Management 
-  - Managed 35+ developers at onshore and offshore locations, hired people, molded teams, executed with laser sharp priorities 
+  - Managed 30+ developers at onshore and offshore locations, hired people, molded teams, executed with laser sharp priorities 
 - Process management 
   - Agile, CI/CD, source control, code review, security analysis, risk mitigation, budgeting, project planning  
 - Managing social system 
